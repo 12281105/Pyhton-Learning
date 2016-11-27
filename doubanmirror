@@ -1,1 +1,11 @@
+pip install:
+python version 3.5 with the default pip and esay install tools.
+this is older version for pip install command.
+so we need to update the pip by using python -m pip install -U pip.
+however, it didn't work for the reason that the internet connection to the abroad is not unstable and slow.
+we can reference this blog http://www.tuicool.com/articles/eiM3Er3
+pip souce:https://pypi.python.org/pypi/pip#downloads
+python setup.py install
+
+we should replace the mirror for download.
 pip install packageName -i http://pypi.douban.com/simple
